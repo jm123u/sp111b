@@ -4,7 +4,6 @@ opcode_table = {
     "ADD": "03",
     "SUB": "2B",
     "MUL": "0F AF",
-    # Other instructions...
 }
 
 # Assembler class
