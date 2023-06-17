@@ -1,4 +1,4 @@
 # Final Assignment
 ___
-> 小部分參考  __大部分自學__ 進行測試
+> 自創居多 小部分debug 由 ChatGPT繼續幫助
 ### 一個簡單的解碼器
